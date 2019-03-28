@@ -8,7 +8,7 @@ author: piee
 show_downloads: false
 
 plugins:
-  - jekyll-paginate-v2
+  - jekyll-paginate
   - jekyll-redirect-from
   - jekyll-mentions
   - jekyll-seo-tag
