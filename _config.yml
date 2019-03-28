@@ -7,15 +7,13 @@ description: ccc
 author: piee
 show_downloads: false
 
-include:
-  - .htaccess
-  - _pages
+#plugins:
+#  - jekyll-paginate
+#  - jekyll-redirect-from
+#  - jekyll-mentions
+#  - jekyll-seo-tag
 
-plugins:
-  - jekyll-paginate
-  - jekyll-redirect-from
-  - jekyll-mentions
-  - jekyll-seo-tag
+markdown: kramdown
 
 permalink: '/:title/'
 paginate: 5
