@@ -2,6 +2,7 @@
 layout: default
 ---
 
+aaa
 
 {% for post in paginator.posts %}
 
